@@ -1,0 +1,27 @@
+#!/usr/bin/env sh
+################################################################################
+# z3r0 - An automation of emergency and/or immediate personal tasks, to include:
+#        - Notifications (family, co-workers, friends) with pre-set details
+#        - Reminders (a sequenced kata of steps to be taken under defined
+#          triggers)
+#        - Actions (run scripts, user-defined) for digital alteration/lockdown
+#
+
+# Scenarios:
+# - Theft
+# - Fire
+# - Loss
+# - Duress
+# - Grid drop
+# - Grid fail
+# - Compromise
+# - Artificial compliance
+# - Expected check-in triggers
+# - Transfer of power
+# - Final wishes
+
+echo "z3r0 complete."
+echo
+echo
+echo
+exit 0
